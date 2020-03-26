@@ -20,7 +20,7 @@ Man arbeitet gerade an seinem Laptop und bekommt angezeigt das der Akku leer ist
 #### Necessary setup/execution steps:
 #### Third party material:
 #### Project state:
-10%
+40%
 
 #### Limitations:
 #### Lessons Learned:
