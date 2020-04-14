@@ -55,6 +55,6 @@ Sicherungskasten
 #### Limitations:
 /
 #### Lessons Learned:
-Ich habe meine Grundwissen von Unity etwas gefestigt und zum ersten mal Freiständig ein Spiel erstellt. Außerdem habe ich gelernt wie man mit Scripts und Buttons Szenen wechselt und einen Timer erstellt der Nach ablauf das Spiel beendet.
+Ich habe meine Grundwissen in Unity etwas gefestigt und zum ersten mal eigenständig ein Spiel erstellt. Außerdem habe ich gelernt wie man mit Scripts und Buttons Szenen wechselt und einen Timer erstellt der nach ablauf das Spiel beendet.
 
 Copyright by Tobias Scheichl
