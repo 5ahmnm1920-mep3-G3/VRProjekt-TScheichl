@@ -14,15 +14,47 @@ Man arbeitet gerade an seinem Laptop und bekommt angezeigt das der Akku leer ist
 - API Compatibility Level: .NET 2.0
 
 #### Target platform:
-#### Steam VR/HTC Vive
+Steam VR/HTC Vive
+### Additional Documentation
+[VRProject-TScheichl Dokumentation](https://github.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/blob/master/Dokumentation/VRProject_Dokumentation_14_04_2020.pdf)
 
 #### Visuals:
+Greyboxing in Maya
+![Greyboxing in Maya](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/greyboxing_maya.png)
+
+3D Modell in Unity
+![3D Modell in Unity](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/3d_modell_unity.png)
+
+Startscreen (Szene 01)
+![Startscreen](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/startscreen_unity.png)
+
+Winscreen (Szene 03)
+![Winscreen](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/winscreen_unity.png)
+
+Gameover (Szene 04)
+![Gameover](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/gameover_unity.png)
+
+Arbeitszimmer
+![Arbeitszimmer](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/arbeitszimmer_unity.png)
+
+Flur
+![Flur](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/flur_unity.png)
+
+Sicherungskasten
+![Sicherungskasten](https://raw.githubusercontent.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/master/Screenshots/sicherungskasten_unity.png)
+
+
 #### Necessary setup/execution steps:
+/
 #### Third party material:
+- Alle 3D Modelle ausgenommen der Raum (Turbosquid)
+- Texturen
 #### Project state:
-40%
+81%
 
 #### Limitations:
+/
 #### Lessons Learned:
-Copyright by Tobias Scheichl
+Ich habe meine Grundwissen von Unity etwas gefestigt und zum ersten mal Freiständig ein Spiel erstellt. Außerdem habe ich gelernt wie man mit Scripts und Buttons Szenen wechselt und einen Timer erstellt der Nach ablauf das Spiel beendet.
 
+Copyright by Tobias Scheichl
