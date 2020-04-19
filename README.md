@@ -16,7 +16,7 @@ Man arbeitet gerade an seinem Laptop und bekommt angezeigt das der Akku leer ist
 #### Target platform:
 Steam VR/HTC Vive
 ### Additional Documentation
-[VRProject-TScheichl Dokumentation](https://github.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/blob/master/Dokumentation/VRProject_Dokumentation_14_04_2020.pdf)
+[VRProject-TScheichl Dokumentation](https://github.com/5ahmnm1920-mep3-G3/VRProjekt-TScheichl/blob/master/Dokumentation/VRProject_Dokumentation_19_04_2020.pdf)
 
 #### Visuals:
 Greyboxing in Maya
